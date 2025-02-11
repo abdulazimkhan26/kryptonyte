@@ -1,0 +1,3 @@
+/home/aak/Desktop/kryptonyte/build/CMakeFiles/my_program.dir
+/home/aak/Desktop/kryptonyte/build/CMakeFiles/edit_cache.dir
+/home/aak/Desktop/kryptonyte/build/CMakeFiles/rebuild_cache.dir
